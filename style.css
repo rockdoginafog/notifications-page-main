@@ -110,7 +110,7 @@ button{
     width: fit-content;
 }
 
-#name-and-surname{
+.name-and-surname{
     font-weight: bold;
 }
 
